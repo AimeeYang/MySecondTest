@@ -1,2 +1,3 @@
 test remove file.	
 this line will save at stage.
+checkout -- <filename> will use file on repository to replace the file on workspace. In details, git will use file on stage to replace file on workspace, if no file on stage, it will use file on master to replace the file on workspace.
