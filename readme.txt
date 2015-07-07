@@ -1,1 +1,1 @@
-Learn git at ws.
+Learn git at ws on 07/07/2015.
